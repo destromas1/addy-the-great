@@ -1,5 +1,5 @@
 # addy-the-great
-addy-the-great
+Collection of all the great posts of Addy Osmani! :tada:
 
 ## Bandwidth vs Latency
 Great explanation of bandwidth vs latency by Katie Hempenius (via Jake Archibald)
